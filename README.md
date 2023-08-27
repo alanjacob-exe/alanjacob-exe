@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
+
 
 ### About me :eyes:
 
@@ -35,7 +35,7 @@
 
 
 
-<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
+
 
 
 
